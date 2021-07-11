@@ -8,7 +8,7 @@
 # Install dependencies
 npm install
 
-# Compile TypeScript to JavaScript
+# Compile TypeScript
 npm run build
 
 # Run the bot
