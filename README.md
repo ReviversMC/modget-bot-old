@@ -8,8 +8,11 @@
 # Install dependencies
 npm install
 
+# Compile TypeScript to JavaScript
+npm run build
+
 # Run the bot
-npm start
+npm run start
 ```
 
 ## Docker
